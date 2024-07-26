@@ -25,6 +25,15 @@ Command line tool by example based coding.
 
     python main.py <input_excel_path> <output_excel_path> <id_column> <source_column> <target_column> <flag_column> <source_flag_list> <target_flag_list> <flag_overwrite>
 
+## クローン時の注意点
+model.pthファイルがクローン後に正しく取得されていない場合がある．
+
+その場合，クローン後に以下のコマンドで手動で取得する．
+```
+git lfs pull
+```
+
+
 ## 使用方法
 
 Rye を導入した後，
