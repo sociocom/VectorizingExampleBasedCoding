@@ -1,4 +1,4 @@
-# vectorizingexamplebasedcoding
+# VectorizingExampleBasedCoding
 
 Command line tool by example based coding.
 
