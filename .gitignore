@@ -9,5 +9,8 @@ wheels/
 # venv
 .venv
 
+# # model
+# model/
+
 # model
-src/model/
+data/
